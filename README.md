@@ -45,8 +45,8 @@ If you want to build a standalone Windows .exe file from the Python script:
 11. **Find the output**  
    The executable can be found under the /dist section
 
-NOTE: If you have an antivirus, it is possible that it detects the .exe as a threat.
-      This is totally normal. Just make an exception to that file.
+>NOTE: If you have an antivirus, it is possible that it detects the .exe as a threat.
+>     This is totally normal. Just make an exception to that file.
 
 
 ## Download the Ready-to-Use .exe
@@ -54,8 +54,8 @@ NOTE: If you have an antivirus, it is possible that it detects the .exe as a thr
 If you don't want to install Python or build anything:
     - Go to the Releases tab to download the zipped file.
 
-NOTE: If you have an antivirus, it is possible that it detects the .exe as a threat.
-      This is totally normal. Just make an exception to that file.
+>NOTE: If you have an antivirus, it is possible that it detects the .exe as a threat.
+>      This is totally normal. Just make an exception to that file.
 
 ## Questions or Feedback?
 
