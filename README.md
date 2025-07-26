@@ -25,15 +25,16 @@ If you want to build a standalone Windows .exe file from the Python script:
 
 1. Make sure Python is installed
    You need Pytho 3.7 or newer.
-2. Create a virtual environment (optional)
+   
+3. Create a virtual environment (optional)
    python -m venv env_name
-3. Activate the env
+4. Activate the env
   source env_name\Scripts\Activate
-4. Install requirements
+5. Install requirements
    pip install -r requirements.txt
-5. Build the executable
+6. Build the executable
    pyinstaller --onefile --windowed sum_checker.py
-6. Find the output
+7. Find the output
    The executable can be found under the /dist section
 
 NOTE: If you have an antivirus, it is possible that it detects the .exe as a threat.
