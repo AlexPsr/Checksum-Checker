@@ -1,0 +1,23 @@
+# === Python cache ===
+__pychache__/
+*.pyc
+*.pyo
+
+# ===PyInstaller build folders ===
+build/
+dist/
+*.spec
+
+# === Virtual environment ===
+.DS_Store
+Thumbs.db
+
+# === VS Code settings ===
+.vscode/
+
+# === Optional: Ignore zipped files unless explicitly added ===
+*.zip
+
+# === Allow zipped RELEASES if manually placed in a release folder ===
+!release/
+!release/*.zip
