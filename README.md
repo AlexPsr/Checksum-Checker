@@ -23,7 +23,7 @@ If you want to build a standalone Windows .exe file from the Python script:
 
  ### Steps:
 
-1. **Make sure Python is installed**
+1. **Make sure Python is installed**  
    You need Pytho 3.7 or newer.
    
 3. **Create a virtual environment** (optional)
