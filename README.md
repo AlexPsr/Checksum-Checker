@@ -1,4 +1,4 @@
-# 🔐 Checksum Checker
+# Checksum Checker
 
 A simple Python desktop app that calculates and verifies file checksums (**MD5**, **SHA256**, **SHA512**).  
 Built with Tkinter. Great for verifying file integrity or checking downloaded files.
