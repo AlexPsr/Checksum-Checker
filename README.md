@@ -51,8 +51,8 @@ If you want to build a standalone Windows .exe file from the Python script:
 
 ## Download the Ready-to-Use .exe
 
-If you don't want to install Python or build anything:
-    - Go to the Releases tab to download the zipped file.
+If you don't want to install Python or build anything:  
+   Go to the Releases tab to download the zipped file.
 
 >NOTE: If you have an antivirus, it is possible that it detects the .exe as a threat.
 >      This is totally normal. Just make an exception to that file.
